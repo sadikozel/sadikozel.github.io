@@ -1,0 +1,20 @@
+
+row1 = [
+  { icon = "devicon-python-plain", name = "Python" },
+  { icon = "devicon-cplusplus-plain", name = "C++" },
+
+  { icon = "devicon-embeddedc-plain", name = "C" },
+  { icon = "devicon-javascript-plain", name = "javascript" },
+
+]
+
+row2 = [
+  { icon = "devicon-nodered-plain", name = "Node-RED" }, # Eğer ikon yoksa 'javascript' kullanabilirsiniz
+  { icon = "devicon-git-plain", name = "Git" },
+  { icon = "devicon-matlab-plain", name = "MATLAB" },
+  { icon = "devicon-linux-plain", name = "Linux" },
+  { icon = "devicon-qt-original", name = "Qt" },  
+  { icon = "devicon-vscode-plain", name = "VSCode" }, # ROS ikonu bazen temada görünmeyebilir, linux da kullanılabilir
+  { icon = "devicon-ros-original", name = "ROS" }, # ROS ikonu bazen temada görünmeyebilir, linux da kullanılabilir
+
+]

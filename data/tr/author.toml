@@ -8,3 +8,22 @@ email = "sadik.ozel@hotmail.com"
 linkedin = "https://www.linkedin.com/in/sadikozel"
 github = "https://github.com/sadikozel" 
 
+[[certifications]]
+title = "Supervised Machine Learning: Regression and Classification"
+date = "July 2024" 
+url = "https://www.coursera.org/account/accomplishments/verify/PXBP4K769AK3"
+
+[[certifications]]
+title = "Crash Course on Python"
+date = "March 2024" 
+url = "https://www.coursera.org/account/accomplishments/verify/P5CVV52Z8EBD"
+
+[[certifications]]
+title = "Yapay Zeka Uzmanlık Programı Temel Eğitim"
+date = "March 2024" 
+url = "https://drdogrulama.sanayi.gov.tr/tr/verify/70724669463410/"
+
+[[certifications]]
+title = "TEKNOFEST BAŞARI SERTİFİKASI"
+date = "March 2024" 
+url = "https://drdogrulama.sanayi.gov.tr/tr/verify/19536234819843/"

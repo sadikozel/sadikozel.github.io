@@ -2,9 +2,11 @@
 row1 = [
   { icon = "devicon-python-plain", name = "Python" },
   { icon = "devicon-cplusplus-plain", name = "C++" },
-
   { icon = "devicon-embeddedc-plain", name = "C" },
-  { icon = "devicon-javascript-plain", name = "javascript" }
+  { icon = "devicon-javascript-plain", name = "javascript" },
+  { icon = "devicon-pycharm-plain", name = "PyCharm" },
+  { icon = "devicon-pandas-plain", name = "pandas" },  
+  { icon = "devicon-flask-plain", name = "flask" },  
 
 ]
 

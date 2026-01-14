@@ -1,35 +1,20 @@
 baseURL = "https://sadikozel.github.io/"
-languageCode = 'en-us'
-title = 'Sadık Özel'
+title = "Sadık ÖZEL"
 theme = "hugo-noir"
 
+relativeURLs = true
+canonifyURLs = true
+defaultContentLanguage = "tr"
+defaultContentLanguageInSubdir = true
+disableKinds = ["taxonomy", "term"] # Kategori hatasını engeller
 
 [languages]
-  # Türkçe Ayarları
   [languages.tr]
     languageName = "Türkçe"
     weight = 1
     contentDir = "content/tr"
-    [languages.tr.menu]
-      [[languages.tr.menu.main]]
-        name = "Hakkımda"
-        pageRef = "/tr"
-        weight = 1
 
-  # İngilizce Ayarları
   [languages.en]
     languageName = "English"
     weight = 2
     contentDir = "content/en"
-    [languages.en.menu]
-      [[languages.en.menu.main]]
-        name = "About"
-        pageRef = "/about"
-        weight = 1
-
-[params]
-  # Buradaki ayarlar her iki dil için de geçerli olur
-  name = "Sadık ÖZEL"
-  github = "https://github.com/sadikozel"
-  linkedin = "https://linkedin.com/in/sadikozel" 
-  email = "sadik.ozel@hotmail.com"

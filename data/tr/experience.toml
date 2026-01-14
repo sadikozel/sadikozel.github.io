@@ -4,7 +4,6 @@ role = "Ar-Ge Mühendisi"
 company = "Kuzey Boru A.Ş."
 period = "Kasım 2025 - Halen"
 country = "Aksaray, TR"
-# Keskin Cümle
 description = "Siemens PLC'leri gerçek zamanlı Node-RED panelleri ve SQL analitiği ile köprüleyerek, uçtan uca bir kestirimci bakım sistemi tasarlandı ve devreye alındı."
 responsibilities = [
   "Siemens S7-1200/1500 PLC'ler ile endüstriyel sensör entegrasyonu yönetildi.",
@@ -18,7 +17,6 @@ role = "Robotik Mühendisi"
 company = "AZE Otomasyon A.Ş."
 period = "Kasım 2024 - Kasım 2025"
 country = "İstanbul, TR"
-# Keskin Cümle
 description = "Otonom mobil robotların (AMR) hassas çevre algılaması için ROS ve C++ kullanarak, otonom navigasyon ve haritalama (SLAM) mimarisini kurguladım."
 responsibilities = [
   "ROS kullanarak otonom sürüş algoritmaları geliştirdim.",
@@ -32,7 +30,6 @@ role = "Stajyer Mühendis"
 company = "Simfer"
 period = "Temmuz 2022 - Eylül 2022"
 country = "Kayseri, TR"
-# Keskin Cümle
 description = "Elektrikli ev aletleri için gömülü C/C++ yazılımları ve devre kartı prototipleri geliştirerek, SPI ve UART gibi düşük seviyeli iletişim protokollerini optimize ettim."
 responsibilities = [
   "Devre kartı tasarımı yaptım ve gömülü yazılımlarını kodladım.",

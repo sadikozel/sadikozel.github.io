@@ -4,7 +4,7 @@ row1 = [
   { icon = "devicon-cplusplus-plain", name = "C++" },
 
   { icon = "devicon-embeddedc-plain", name = "C" },
-  { icon = "devicon-javascript-plain", name = "javascript" },
+  { icon = "devicon-javascript-plain", name = "javascript" }
 
 ]
 
@@ -15,5 +15,5 @@ row2 = [
   { icon = "devicon-linux-plain", name = "Linux" },
   { icon = "devicon-qt-original", name = "Qt" },  
   { icon = "devicon-vscode-plain", name = "VSCode" }, 
-  { icon = "devicon-ros-original", name = "ROS" },
+  { icon = "devicon-ros-original", name = "ROS" }
 ]

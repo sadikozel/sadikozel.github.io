@@ -6,7 +6,7 @@ relativeURLs = true
 canonifyURLs = true
 defaultContentLanguage = "tr"
 defaultContentLanguageInSubdir = true
-disableKinds = ["taxonomy", "term"] # Kategori hatasını engeller
+disableKinds = ["taxonomy", "term"]
 
 [languages]
   [languages.tr]
@@ -18,3 +18,4 @@ disableKinds = ["taxonomy", "term"] # Kategori hatasını engeller
     languageName = "English"
     weight = 2
     contentDir = "content/en"
+    

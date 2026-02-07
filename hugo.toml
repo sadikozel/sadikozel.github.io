@@ -6,6 +6,7 @@ relativeURLs = true
 canonifyURLs = true
 defaultContentLanguage = "tr"
 defaultContentLanguageInSubdir = true
+enableGitInfo = true
 disableKinds = ["taxonomy", "term"]
 
 [params]
